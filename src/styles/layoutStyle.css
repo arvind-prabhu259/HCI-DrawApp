@@ -1,0 +1,71 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: #0F0F0F;
+    color: #86EC58;
+    /* display: ; */
+}
+
+.container{
+    padding-top: 25px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.navButton{
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    border-width: 4px;
+    background-color: #86EC58;
+    color: #0F0F0F;
+
+    font-size: 16px;
+}
+
+.PageTitle{
+    width: 75%;
+    justify-content: center;
+    text-align: center;
+
+    font-size: 24px;
+}
+
+.drawArea{
+    color: #0F0F0F;
+    border-width: 5px;
+    border-radius: 2px;
+    width: 45%;
+    height: 500px;
+}
+
+.imgContainer{
+    width: 45%;
+    height: 500px;
+}
+
+.displayLetter{
+    width: 500px;
+    height: 450px;
+}
+
+.paletteContainer{
+    width: 10%;
+    height: 450px;
+
+    background-color: #0F0F0F;
+    color:aliceblue;
+}
+
+.paletteButton{
+    height: 50px;
+    width: 100px;
+    border-radius: 25px;
+    border-width: 4px;
+    background-color: #58b1ec;
+    color: #0F0F0F;
+
+    font-size: 16px;
+}
